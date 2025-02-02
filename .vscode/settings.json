@@ -2,5 +2,10 @@
 	"workbench.colorCustomizations": {
 		"minimap.background": "#00000044",
 		"scrollbar.shadow": "#00000044"
-	}
+	},
+	"terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.copyOnSelection": true,
+	"terminal.integrated.defaultProfile.linux": "bash",
+	"terminal.integrated.enableImages": true
 }
